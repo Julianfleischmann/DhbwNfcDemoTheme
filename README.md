@@ -5,7 +5,7 @@ This is the Shopware Theme for our DHBW Crossmedia project.
 ## Initializing the Project
 
 1. Clone this repo
-2. Use the dockware dev template (See docker-compose.yml) with ``docker-compose up -d``
+2. Use the dockware dev template (See docker-compose.yml) with ``docker compose up -d``
 3. The Theme should placed in ./plugins/**DhbwNfcDemoTheme**
 4. login to the admin with http://localhost/admin (See Credentials below)
 
@@ -38,7 +38,15 @@ and to install, activate and change the Theme
 ```shell
 bin/console theme:change
 ```
-
+## Docker commands
+Start container
+```shell
+docker compose up -d
+```
+Stop Container
+```shell
+docker compose stop
+```
 
 ## CLI commands (inside the container)
 ```shell
