@@ -18,8 +18,8 @@ This is the Shopware Theme for our DHBW Crossmedia project.
 
 ## Local dockware Credentials
 ### Admin
-- User: shopware
-- Password: dockware
+- User: admin
+- Password: shopware
 
 https://docs.dockware.io/use-dockware/default-credentials
 ### SSH
