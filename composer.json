@@ -1,0 +1,18 @@
+{
+  "name": "swag/theme-skeleton",
+  "description": "Theme skeleton plugin",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "DhbwNfcDemoTheme\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "DhbwNfcDemoTheme\\DhbwNfcDemoTheme",
+    "label": {
+      "de-DE": "Theme DhbwNfcDemoTheme plugin",
+      "en-GB": "Theme DhbwNfcDemoTheme plugin"
+    }
+  }
+}
