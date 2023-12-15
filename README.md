@@ -4,7 +4,7 @@ This is the Shopware Theme for our DHBW Crossmedia project.
 
 ## Initializing the Project
 
-1. Use the dockware dev template
+1. Use the dockware dev template (See example docker-compose.yml below)
 2. add the theme to the local dev from https://github.com/Julianfleischmann/DhbwNfcDemoTheme
 3. The Theme should placed in [Dockware path]/plugins/**DhbwNfcDemoTheme**
 (Dockware path is the folder where the docker-compsoe.yml is inside)
@@ -44,7 +44,7 @@ https://docs.dockware.io/use-dockware/update-dockware
 ``docker pull dockware/dev:latest``
 
 
-# The example docker-compose-Yml
+# The example docker-compose.yml
 ```
 version: '3'
 
