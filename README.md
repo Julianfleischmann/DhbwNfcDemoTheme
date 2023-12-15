@@ -75,3 +75,12 @@ networks:
   web:
     external: false
 ```
+
+
+# Contributors
+- Philipp Borutta
+- Paul Eitenbichler
+- Julian Fleischmann
+- Arthur Kaczynski
+- Chris Sägner
+- Sven Schuppel
